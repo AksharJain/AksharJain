@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshar Jain</h1>
 
 <h3 align="center">
-  AI & Web Development Enthusiast • Java Developer • DSA Learner
+  Building for the Web | Exploring AI | Learning DSA
 </h3>
 
 <p align="center">
@@ -23,15 +23,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Second-year Computer Science student
-- 🤖 Passionate about **Artificial Intelligence**
-- 🌐 I enjoy building **websites and practical web projects**
-- 💻 Comfortable with **Java and C**
-- 🐍 Currently learning **Python**
-- 🧠 Improving my **Data Structures & Algorithms**
-- 🏆 Participating in **hackathons and team-based projects**
-- 🛠️ Exploring **AI tools and AI-assisted development**
-- 🚀 Interested in turning ideas into useful real-world applications
+- 🔭 I’m currently working on **Making Website for solving people problems**
+
+- 🌱 I’m currently learning **Artificial Intelligence & Data Science**
+
+- 💬 Ask me about **AI and more about technologies**
+
+- 📫 How to reach me **jainakshar2205@gmail.com**
+
 
 ---
 
