@@ -168,19 +168,6 @@ alt="GitHub Contribution Streak"
 
 ---
 
-# 📌 Commit Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AksharJain&theme=tokyo-night&hide_border=true"
-alt="Commit Graph"
-/>
-
-</p>
-
----
-
 # ⭐ GitHub Statistics
 
 <p align="center">
