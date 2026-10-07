@@ -191,12 +191,7 @@ alt="Stars Got"
 />
 
 <img
-src="https://img.shields.io/github/repos/AksharJain?style=for-the-badge&label=Total%20Repos"
-alt="Total Repositories"
-/>
-
-<img
-src="https://img.shields.io/github/commit-activity/y/AksharJain?style=for-the-badge&label=Commits"
+src="https://img.shields.io/github/commit-activity/y/AksharJain/Our-System-?style=for-the-badge&label=Commits"
 alt="Commit Activity"
 />
 
