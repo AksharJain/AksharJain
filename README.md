@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshar Jain</h1>
 
 <h3 align="center">
-  Building for the Web | Exploring AI | Learning DSA
+  AI & Web Development Enthusiast • Java Developer • DSA Learner
 </h3>
 
 <p align="center">
@@ -9,13 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=AksharJain&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
   </a>
   <a href="https://github.com/AksharJain?tab=followers">
-    <img src="https://img.shields.io/github/followers/AksharJain?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/AksharJain?tab=repositories">
-    <img src="https://img.shields.io/github/repos/AksharJain?label=Public%20Repos&style=for-the-badge" alt="Public Repositories" />
-  </a>
-  <a href="https://github.com/AksharJain?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AksharJain?label=Total%20Stars&style=for-the-badge" alt="Total Stars" />
+    <img src="https://img.shields.io/github/followers/AksharJain?label=Followers&style=for-the-badge" alt="Followers" />
   </a>
 </p>
 
@@ -23,115 +17,111 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Making Website for solving people problems**
-
-- 🌱 I’m currently learning **Artificial Intelligence & Data Science**
-
-- 💬 Ask me about **AI and more about technologies**
-
-- 📫 How to reach me **jainakshar2205@gmail.com**
-
-
----
-
-## 🧠 Current Focus
-
-<table>
-  <tr>
-    <td>🤖 Artificial Intelligence</td>
-    <td>🌐 Web Development</td>
-  </tr>
-  <tr>
-    <td>🧠 Data Structures & Algorithms</td>
-    <td>☕ Java</td>
-  </tr>
-  <tr>
-    <td>🐍 Python</td>
-    <td>💡 Problem Solving</td>
-  </tr>
-  <tr>
-    <td>🏆 Hackathons</td>
-    <td>🛠️ AI-assisted Development</td>
-  </tr>
-</table>
+- 🎓 Second-year Computer Science student
+- 🤖 Very interested in **Artificial Intelligence**
+- 🌐 I build **websites and web projects**
+- 💻 I know **Java and C**
+- 🐍 Currently learning **Python**
+- 🧠 Currently learning **Data Structures & Algorithms**
+- 🏆 Participated in **multiple hackathons**
+- 🛠️ I use **AI tools** while building projects
+- 📂 I have built and uploaded multiple websites and projects on GitHub
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+## 🔗 Connect With Me
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-</p>
+  <a href="https://linkedin.com/in/akshar_jain" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 
-### 🌐 Web Development
+  <a href="https://www.hackerrank.com/akshar_jain" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-</p>
+  <a href="https://leetcode.com/akshar_jain05" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 
-### 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+  <a href="https://auth.geeksforgeeks.org/user/jainakshar05" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-## 🤖 AI & Development
+## 🛠️ Languages and Tools
 
-I’m highly interested in **Artificial Intelligence** and enjoy experimenting with modern AI tools to learn, prototype ideas and build software projects.
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
 
-I use AI tools as development assistants while continuously improving my understanding of programming, problem solving and software development.
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
 
----
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
 
-## 🏆 Hackathons
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
 
-I enjoy participating in hackathons where I can:
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
 
-- 💡 Turn ideas into working prototypes
-- 🤝 Collaborate with teammates
-- 🧠 Solve real-world problems
-- ⚡ Learn and experiment with new technologies
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 <p align="center">
+
   <a href="https://github.com/AksharJain/Our-System-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AksharJain&repo=Our-System-&theme=tokyonight&hide_border=true" alt="Our-System Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AksharJain&repo=Our-System-&theme=tokyonight&hide_border=true" alt="Our-System" />
   </a>
 
   <a href="https://github.com/AksharJain/Gemma-4-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AksharJain&repo=Gemma-4-website&theme=tokyonight&hide_border=true" alt="Gemma 4 Website Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AksharJain&repo=Gemma-4-website&theme=tokyonight&hide_border=true" alt="Gemma-4-website" />
   </a>
+
 </p>
-
-### 🤖 JARVIS / AI Assistant Project
-
-An AI-focused project exploring voice interaction, AI integration and desktop productivity features.
-
-🔗 [View Project](https://github.com/AksharJain/Our-System-)
-
-### 🌐 Web Development Projects
-
-A collection of websites and web-based experiments created while learning and exploring modern development techniques.
-
-🔗 [View All Repositories](https://github.com/AksharJain?tab=repositories)
 
 ---
 
@@ -139,14 +129,26 @@ A collection of websites and web-based experiments created while learning and ex
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AksharJain&show_icons=true&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=AksharJain&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
     height="180"
-    alt="Akshar's GitHub Stats"
+    alt="GitHub Stats"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AksharJain&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
     height="180"
-    alt="Akshar's Top Languages"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AksharJain&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
   />
 </p>
 
@@ -157,18 +159,7 @@ A collection of websites and web-based experiments created while learning and ex
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=AksharJain&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AksharJain&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
+    alt="Contribution Streak"
   />
 </p>
 
@@ -190,76 +181,19 @@ A collection of websites and web-based experiments created while learning and ex
 <p align="center">
 
   <a href="https://leetcode.com/akshar_jain05">
-    <img
-      src="https://img.shields.io/badge/LeetCode-akshar__jain05-orange?style=for-the-badge&logo=leetcode&logoColor=white"
-      alt="LeetCode"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-akshar__jain05-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 
   <a href="https://www.hackerrank.com/akshar_jain">
-    <img
-      src="https://img.shields.io/badge/HackerRank-akshar__jain-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"
-      alt="HackerRank"
-    />
+    <img src="https://img.shields.io/badge/HackerRank-akshar__jain-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 
   <a href="https://auth.geeksforgeeks.org/user/jainakshar05">
-    <img
-      src="https://img.shields.io/badge/GeeksforGeeks-jainakshar05-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-      alt="GeeksforGeeks"
-    />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-jainakshar05-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Learning-blue?style=for-the-badge" alt="AI" />
-  <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/DSA-Learning-green?style=for-the-badge" alt="DSA" />
-  <img src="https://img.shields.io/badge/Web%20Development-Improving-orange?style=for-the-badge" alt="Web Development" />
-</p>
-
----
-
-# 🎯 Goals
-
-- 🚀 Build more real-world projects
-- 🤖 Explore Artificial Intelligence deeply
-- 🧠 Become stronger at DSA and problem solving
-- 🏆 Participate in more hackathons
-- 🌐 Build and deploy useful web applications
-- 📈 Maintain a consistent GitHub contribution streak
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-  <a href="https://github.com/AksharJain">
-    <img
-      src="https://img.shields.io/badge/GitHub-AksharJain-181717?style=for-the-badge&logo=github"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="mailto:jainakshar2205@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-</p>
-
----
-
-<h3 align="center">💡 Learn • Build • Experiment • Repeat 🚀</h3>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<h3 align="center">Building Websites • Exploring AI • Learning DSA 🚀</h3>
